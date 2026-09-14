@@ -1,1 +1,1 @@
-# Laboratori-1
+lab1-diagnostico-Marchena-Vargas
